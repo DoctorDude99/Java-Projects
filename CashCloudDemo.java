@@ -3,6 +3,7 @@ Programmer: Ibrahim
 Date: 2024-06-11
 Description: A fully functioning user friendly java atm with
 multiple functions including deposit, withdraw, and currency converter
+This project works best on netbeans or on a web java ide with "package cashclouddemo;" removed
  */
 package cashclouddemo;
 
